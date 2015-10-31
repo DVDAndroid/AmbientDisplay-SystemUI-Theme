@@ -1,0 +1,22 @@
+<manifest
+    package="com.android.systemui.overlay.ambientdisplay"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <overlay
+        android:priority="55"
+        android:targetPackage="com.android.systemui"/>
+
+    <meta-data
+        android:name="rom"
+        android:value="Cataclysm"/>
+    <meta-data
+        android:name="infoShort"
+        android:value="Ambient Display Theme"/>
+    <meta-data
+        android:name="infoLong"
+        android:value="Ambient Display Theme mod for SystemUI"/>
+    <meta-data
+        android:name="author"
+        android:value="dvdandroid"/>
+
+</manifest>

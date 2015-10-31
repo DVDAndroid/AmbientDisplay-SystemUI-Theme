@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="doze_pulse_schedule_resets">1</integer>
+
+</resources>
